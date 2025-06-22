@@ -6,7 +6,7 @@ class ButtonPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Colors.orange,
+        color: Colors.teal,
       ),
     );
   }
